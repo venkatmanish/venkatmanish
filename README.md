@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thatikondamanish@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WP-fAFtEX7oNKkW_QfEMnarLb-P5R-bR/view?usp=sharing](https://drive.google.com/file/d/1WP-fAFtEX7oNKkW_QfEMnarLb-P5R-bR/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny**
 
