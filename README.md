@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Venkat Manish</h1>
 <h3 align="center">I'm a Blockchain and AI Enthusiast</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatmanish&label=Profile%20views&color=0e75b6&style=flat" alt="venkatmanish" /> </p>
 
 - 🔭 I’m currently working on **A large language model for summarizing text**
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **thatikondamanish@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WP-fAFtEX7oNKkW_QfEMnarLb-P5R-bR/view?usp=sharing](https://drive.google.com/file/d/1WP-fAFtEX7oNKkW_QfEMnarLb-P5R-bR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 - ⚡ Fun fact **I am funny**
 
