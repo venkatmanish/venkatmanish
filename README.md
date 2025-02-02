@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Venkat Manish</h1>
-<h3 align="center">I'm a Blockchain and AI Enthusiast</h3>
+<h3 align="center">I'm an AI Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatmanish&label=Profile%20views&color=0e75b6&style=flat" alt="venkatmanish" /> </p>
 
-- 🔭 I’m currently working on **AIML**
+- 🔭 I’m currently working as a **Data Scientist at Volkswagen**
 
 - 🌱 I’m currently learning **Agentic AI**
 
@@ -15,7 +15,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
-- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
