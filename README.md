@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cute-man-working-computer-with-coffee-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3868.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatmanish&label=Profile%20views&color=0e75b6&style=flat" alt="venkatmanish" /> </p>
 
-- 🔭 I’m currently working on **A large language model for summarizing text**
+- 🔭 I’m currently working on **AIML**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 📝 I regularly write articles on [https://medium.com/@thatikondamanish](https://medium.com/@thatikondamanish)
 
